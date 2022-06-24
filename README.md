@@ -5,9 +5,8 @@
 ## Description
 This is my first attempt at making a E-Commerce-Backend data management application.
 
-Click here for a [Video](https://www.loom.com/share/bc55d46be6984d1e9b1e4078fd113355)
+Click here for a [Video](https://www.loom.com/share/c4bcb1a03bf44757bcc0ff32a70f9c43)
 
-![This is an image](SS.png)
 
 ## Table of Contents
 - [Installation](#installation)
